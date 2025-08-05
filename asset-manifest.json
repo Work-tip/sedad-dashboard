@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sedad-dashboard/static/css/main.ce618a3b.css",
-    "main.js": "/sedad-dashboard/static/js/main.6b25e6d7.js",
+    "main.js": "/sedad-dashboard/static/js/main.5fa3ac21.js",
     "static/js/27.b04e5cc5.chunk.js": "/sedad-dashboard/static/js/27.b04e5cc5.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/sedad-dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/sedad-dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.ce618a3b.css",
-    "static/js/main.6b25e6d7.js"
+    "static/js/main.5fa3ac21.js"
   ]
 }
